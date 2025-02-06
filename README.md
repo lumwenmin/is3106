@@ -1,5 +1,5 @@
 # IS3106
-This is the repo for all labs for module IS3106
+This is the repo for all IS3106 labs
 
 ## How to navigate this repo
 - All folders are created according to its corresponding Lab Session
