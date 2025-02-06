@@ -1,0 +1,9 @@
+.navbar {
+  float: left;
+  margin-right: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
